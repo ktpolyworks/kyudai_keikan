@@ -1,0 +1,30 @@
+【コードを書く前に毎回やってほしいこと】
+1. リモートに更新がないかをチェックする
+	git fetch origin master
+2. 更新があった場合は、それをローカルにも適用する
+	git pull origin master
+3. ブランチを自分専用に切り替える
+	git checkout naruo
+4. （一応） 自分のブランチかどうかを確かめる
+	git branch
+	（ * naruo となっていれば OK! ）
+
+【これを読んだ初回のみ要確認！】
+※このへん https://techacademy.jp/magazine/10179 参照！
+1. git status で wp-config.php が対象に入っているかどうか確認
+2. 入っていたら、 git rm --cached wp-config.php を実行して追跡対象から外す
+3. .gitignore ファイルに /wp-config.php を追加する
+4. 再度 git status を実行して wp-config.php が追跡対象に入っていないことをチェックする
+
+
+【コードを書き終わったとき】
+1. 変更したファイルがきちんと検出されているか確かめる
+	git status
+2. 問題なければ、リストに加える
+	（１つずつ加える場合） git add ファイルパス
+	（全部一気に加える場合） git add .
+3. メッセージを付けて送信準備を整える
+	git commit -m "更新内容を端的に示すコメントを書いてください"
+4. 送信する
+	git push origin naruo
+5. 送信が終わったら、 Bitbucket を開いて「プルリクエスト」→「プルリクエストを作成」する
