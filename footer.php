@@ -36,7 +36,7 @@
 								<li><a href="/work/scenario">シナリオづくり</a></li>
 								<li><a href="/work/spot">観光地のデザイン</a></li>
 								<li><a href="/work/green">グリーンインフラ</a></li>
-								<li><a href="/work/barrierfree">バリアフリー</a></li>
+								<li><a href="/work/barrierfree">インクルーシヴデザイン</a></li>
 							</ul>
 						</li>
 					</ul>

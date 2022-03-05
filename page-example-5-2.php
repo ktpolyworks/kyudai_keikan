@@ -60,7 +60,7 @@ get_header(); ?>
 				</table>
 			</div>
 		</section>
-		<section class="section">
+		<section class="section--2">
 			<div class="contents clearfix">
 				<div class="section__title__bar section__title__bar--1">
 					<div class="__box"></div>
@@ -74,7 +74,7 @@ get_header(); ?>
 				</div>
 			</div>
 		</section>
-		<section class="section">
+		<section class="section--2">
 			<div class="contents clearfix">
 				<div class="section__title__bar section__title__bar--1">
 					<div class="__box"></div>
@@ -89,7 +89,7 @@ get_header(); ?>
 				</div>
 			</div>
 		</section>
-		<section class="section">
+		<section class="section--2">
 			<div class="contents clearfix">
 				<div class="section__title__bar section__title__bar--1">
 					<div class="__box"></div>
@@ -104,7 +104,7 @@ get_header(); ?>
 				</div>
 			</div>
 		</section>
-		<section class="section">
+		<section class="section--2">
 			<div class="contents clearfix">
 				<div class="section__title__bar section__title__bar--1">
 					<div class="__box"></div>

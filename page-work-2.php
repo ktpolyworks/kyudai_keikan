@@ -31,10 +31,6 @@ get_header(); ?>
 						<img src="<?php print get_template_directory_uri(); ?>/img/works/top2-3.jpg">
 						<div class="box__header mincho">水天宮横の樋門と石積み堤防</div>
 					</div></a>
-					<a href="/work/structure/example2-3"><div class="section__box imgLiquid squarelize">
-						<img src="<?php print get_template_directory_uri(); ?>/img/works/example/23-03.jpg">
-						<div class="box__header mincho">名賀川河川災害復旧</div>
-					</div></a>
 				</div>
                 
 			 </div>

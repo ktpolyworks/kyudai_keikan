@@ -67,7 +67,7 @@ define("LAUNCH_VERSION",date("YmdHis"));
 							<li class="mincho"><a href="/work/scenario">シナリオづくり</a></li>
 							<li class="mincho"><a href="/work/spot">観光地のデザイン</a></li>
 							<li class="mincho"><a href="/work/green">グリーンインフラ</a></li>
-							<li class="mincho"><a href="/work/barrierfree">バリアフリー</a></li>
+							<li class="mincho"><a href="/work/barrierfree">インクルーシヴデザイン</a></li>
 						</ul>
 					</li>
 					<li><a href="/research/"><button>RESEARCH</button></a></li>

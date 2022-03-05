@@ -65,7 +65,7 @@
 						<img src="<?php print get_template_directory_uri(); ?>/img/index/07.jpg">
 						<div class="__caption">
 							<span class="verticalAlign">
-								多様性のある社会を実現する<br><strong>バリアフリー</strong>
+								多様性のある社会を実現する<br><strong>インクルーシヴデザイン</strong>
 							</span>
 						</div>
 					</div>

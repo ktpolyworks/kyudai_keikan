@@ -15,7 +15,7 @@ get_header(); ?>
 				<div class="eyeCatch__section eyeCatch__section--2">
 					<div class="eyeCatch__section__title">まちを元気にする<h1 class="mincho">ローカルデザイン</h1></div>
 					<div class="eyeCatch__section__note">
-						それぞれの地域には、独自の歴史や文化、暮らし、風景があります。その地域のまちづくりやデザインの仕事をする際には、その土地の履歴を読み解いた上で、その場所を訪ねる人、使う人たちのことを想像することが大切。そこの地域性をうまく掴み取ったデザインは、地域の愛着を生み、賑わいをもたらすことができるのです。
+						地域には、それぞれの歴史や文化、暮らし、風景があります。その地域のまちづくりやデザインの仕事をする際には、その土地の履歴を読み解いた上で、その場所を訪ねる人、使う人たちのことを想像することが大切。そこの地域性をうまく掴み取ったデザインは、地域の愛着を生み、賑わいをもたらすことができるのです。
 					</div>
 				</div>
 			</div>
@@ -23,6 +23,10 @@ get_header(); ?>
 		<section class="section">
 			<div class="contents clearfix">
 				<div class="section__list">
+					<a href="/work/localdesign/example1-3"><div class="section__box imgLiquid squarelize">
+						<img src="<?php print get_template_directory_uri(); ?>/img/works/top1-4.jpg">
+						<div class="box__header mincho">大分線路敷<br>ボードウォーク広場</div>
+					</div></a>
 					<a href="/work/localdesign/example1-1"><div class="section__box imgLiquid squarelize">
 						<img src="<?php print get_template_directory_uri(); ?>/img/works/top1-2.jpg">
 						<div class="box__header mincho">遠賀川直方の水辺</div>
@@ -31,9 +35,9 @@ get_header(); ?>
 						<img src="<?php print get_template_directory_uri(); ?>/img/works/top1-3.jpg">
 						<div class="box__header mincho">唐津東港</div>
 					</div></a>
-					<a href="/work/localdesign/example1-3"><div class="section__box imgLiquid squarelize">
-						<img src="<?php print get_template_directory_uri(); ?>/img/works/top1-4.jpg">
-						<div class="box__header mincho">大分市線路敷ボードウオーク広場</div>
+					<a href="/work/structure/example2-3"><div class="section__box imgLiquid squarelize">
+						<img src="<?php print get_template_directory_uri(); ?>/img/works/example/23-03.jpg">
+						<div class="box__header mincho">名賀川河川災害復旧</div>
 					</div></a>
 				</div>
 			</div>

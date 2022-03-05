@@ -60,51 +60,49 @@ get_header(); ?>
 						<table>
 							<tr>
 								<td class="td1" rowspan="4"><span style="letter-spacing: 3em">学</span>歴</td>
-								<td class="td2">昭和56年3月</td>
+								<td class="td2" nowrap>昭和56年3月</td>
 								<td class="td3">東京大学農学部卒業</td>
 							</tr>
 							<tr>
-								<td class="td2">昭和58年3月</td>
+								<td class="td2" nowrap>昭和58年3月</td>
 								<td class="td3">東京大学工学部卒業</td>
 							</tr>
 							<tr>
-								<td class="td2">平成 2年 6月</td>
+								<td class="td2" nowrap>平成 2年 6月</td>
 								<td class="td3">コーネル大学都市及び地域計画学修士</td>
 							</tr>
 							<tr>
-								<td class="td2">平成10年 6月</td>
+								<td class="td2" nowrap>平成10年 6月</td>
 								<td class="td3">ハーバード大学博士 (Doctor of Design)</td>
 							</tr>
 						</table>
 						<table>
 							<tr>
 								<td class="td1" rowspan="6"><span style="letter-spacing: 3em">職</span>歴</td>
-								<td class="td2">昭和58年 4月</td>
+								<td class="td2" nowrap>昭和58年 4月</td>
 								<td class="td3">五洋建設株式会社土木設計部</td>
 							</tr>
 							<tr>
-								<td class="td2">昭和60年 4月</td>
+								<td class="td2" nowrap>昭和60年 4月</td>
 								<td class="td3">同開発本部</td>
 							</tr>
 							<tr>
-								<td class="td2">平成 2年 7月</td>
+								<td class="td2" nowrap>平成 2年 7月</td>
 								<td class="td3">Cooper & Robertson, New York, USA</td>
 							</tr>
 							<tr>
-								<td class="td2">平成 3年 3月</td>
+								<td class="td2" nowrap>平成 3年 3月</td>
 								<td class="td3">Regional Plan Association, New York, USA</td>
 							</tr>
 							<tr>
-								<td class="td2">平成 9年 7月</td>
+								<td class="td2" nowrap>平成 9年 7月</td>
 								<td class="td3">Thompson Design Group, Boston, USA</td>
 							</tr>
 							<tr>
-								<td class="td2">平成11年 4月</td>
+								<td class="td2" nowrap>平成11年 4月</td>
 								<td class="td3">九州大学大学院工学研究院准教授</td>
 							</tr>
 						</table>
-					</div>
-					<div class="section__box">
 						<table>
 							<tr>
 								<td class="td1" rowspan="4"><span style="letter-spacing: 0.25em">専門分</span>野</td>
@@ -114,26 +112,44 @@ get_header(); ?>
 								<td class="td4">まちづくり</td>
 							</tr>
 						</table>
+					</div>
+					<div class="section__box">
 						<table>
 							<tr>
-								<td class="td1" rowspan="5">主な受賞等</td>
-								<td class="td5">2019年</td>
-								<td class="td6">土木学会デザイン賞最優秀賞受賞<br>受賞対象作品<br>「津和野川・名賀川河川災害復旧助成事業名賀川工区」</td>
-							</tr>							
+								<td class="td1" rowspan="9">主な受賞等</td>
+								<td class="td5" nowrap>2021年</td>
+								<td class="td6">土木学会デザイン賞奨励賞受賞<br>受賞対象作品<br>「線路敷ボードウォーク広場（大分市）」</td>
+							</tr>
 							<tr>
-								<td class="td5">2018年</td>
+								<td class="td5" nowrap>&nbsp;</td>
+								<td class="td6">グッドデザイン賞受賞<br>受賞対象作品<br>「線路敷ボードウォーク広場（大分市）」</td>
+							</tr>
+							<tr>
+								<td class="td5" nowrap>2020年</td>
+								<td class="td6">土木学会デザイン賞優秀賞受賞<br>受賞対象作品<br>「勘六橋」</td>
+							</tr>
+							<tr>
+								<td class="td5" nowrap>&nbsp;</td>
+								<td class="td6">アジア都市景観賞受賞<br>受賞対象作品<br>「線路敷ボードウォーク広場（大分市）」</td>
+							</tr>
+							<tr>
+								<td class="td5" nowrap>2019年</td>
+								<td class="td6">土木学会デザイン賞最優秀賞受賞<br>受賞対象作品<br>「津和野川・名賀川河川災害復旧助成事業名賀川工区」</td>
+							</tr>				
+							<tr>
+								<td class="td5" nowrap>2018年</td>
 								<td class="td6">土木学会デザイン賞奨励賞受賞<br>受賞対象作品<br>「瀬下排水樋管及び石積み護岸と周辺施設群」</td>
 							</tr>
 							<tr>
-								<td class="td5">2017年</td>
+								<td class="td5" nowrap>2017年</td>
 								<td class="td6">土木学会デザイン賞優秀賞受賞<br>受賞対象作品<br>「嘉瀬川ダム」</td>
 							</tr>
 							<tr>
-								<td class="td5">2009年</td>
+								<td class="td5" nowrap>2009年</td>
 								<td class="td6">土木学会デザイン賞最優秀賞受賞<br>受賞対象作品<br>「遠賀川 直方の水辺」</td>
 							</tr>
 							<tr>
-								<td class="td5">2003年</td>
+								<td class="td5" nowrap>2003年</td>
 								<td class="td6">グッドデザイン賞<br>受賞対象作品<br>「西中島橋」</td>
 							</tr>
 						</table>
@@ -432,6 +448,22 @@ get_header(); ?>
 					</div>
 					<div class="section__box section__box--2">
 						<div class="box__header mincho">北米マルチメディア産業と今後の都市づくり, 地域開発 <span>［2000.07. vol. 427，pp.17-22］</span></div>
+						<div class="box__body">樋口明彦</div>
+					</div>
+					
+					<div class="section__box section__box--1">
+						<div class="box__header mincho">8.</div>
+					</div>
+					<div class="section__box section__box--2">
+						<div class="box__header mincho">筑後川景観設計の手引き <span>［2014.11.］</span></div>
+						<div class="box__body">国土交通省九州地方整備局筑後川河川事務所・九州大学景観研究室編著</div>
+					</div>
+					
+					<div class="section__box section__box--1">
+						<div class="box__header mincho">9.</div>
+					</div>
+					<div class="section__box section__box--2">
+						<div class="box__header mincho">土木でのスギ材活用に向けた幾つかの提案：第20回木材工学研究発表会 <span>［2021.9.］</span></div>
 						<div class="box__body">樋口明彦</div>
 					</div>
 			</div>
