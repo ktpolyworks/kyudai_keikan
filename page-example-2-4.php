@@ -12,7 +12,7 @@ get_header(); ?>
 				<div class="eyeCatch__image fixsize" data="map2-04.svg"></div>
 				<div class="eyeCatch__intro">
 					<div class="intro__header">
-						<a href="/work/structure">風景に溶け込む <span class="mincho">構造物のデザイン</span></a><br><h1 class="mincho">勘六橋の架替えと整備</h1>
+						<a href="/work/structure">風景に溶け込む <span class="mincho">構造物のデザイン</span></a><br><h1 class="mincho">勘六橋</h1>
 					</div>
 					<div class="intro__body">
 						本事業は、一級河川遠賀川に架かる旧橋の老朽化に伴う架け替えと、交差点改良による交通混雑の緩和等を目的としてした整備です。<br>
@@ -53,8 +53,8 @@ get_header(); ?>
 						<td class="td1 imgLiquid"><img src="<?php print get_template_directory_uri(); ?>/img/works/example/2-4_5.jpg"></td>
 						<td class="td1 imgLiquid"><img src="<?php print get_template_directory_uri(); ?>/img/works/example/2-4_6.jpg"></td>
 						<td class="td2">
-							<i class="ion-arrow-left-b icon1"></i><i class="ion-arrow-left-b icon2"></i><br>２枚目の写真と同じポイントから見た新勘六橋遠景。開放的な川の風景の中にあって、旧橋ほどではないが、控えめに佇んでくれている。下流からの眺めは、南面するため逆光によるシルエット景になる。<br><br>
-							<i class="ion-arrow-left-b icon1"></i><br>2枚目の写真と同じポイントから見た新勘六橋中景。当初案では無かった高水敷の緩傾斜スロープ化、橋台部の覆土・緑化により、リバーサイドパークの空間と橋との馴染みが良くなっている。
+							<i class="ion-arrow-left-b icon1"></i><i class="ion-arrow-left-b icon2"></i><br>旧勘六橋の写真と同じポイントから見た、新勘六橋遠景。開放的な川の風景の中にあって、旧橋ほどではないが、控えめに佇んでくれている。下流からの眺めは、南面するため逆光によるシルエット景になる。<br><br>
+							<i class="ion-arrow-left-b icon1"></i><br>旧勘六橋の写真と同じポイントから見た、新勘六橋中景。当初案では無かった高水敷の緩傾斜スロープ化、橋台部の覆土・緑化により、リバーサイドパークの空間と橋との馴染みが良くなっている。
 						</td>
 					</tr>
 					<tr>

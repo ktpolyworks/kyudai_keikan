@@ -32,8 +32,8 @@ get_header(); ?>
 						<div class="box__header mincho">水天宮横の樋門と石積み堤防</div>
 					</div></a>
 					<a href="/work/structure/example2-4"><div class="section__box imgLiquid squarelize">
-						<img src="<?php print get_template_directory_uri(); ?>/img/works/top2-4.jpg">
-						<div class="box__header mincho">勘六橋の架替えと整備</div>
+						<img src="<?php print get_template_directory_uri(); ?>/img/works/top2-4.jpg?220319">
+						<div class="box__header mincho">勘六橋</div>
 					</div></a>
 				</div>
                 

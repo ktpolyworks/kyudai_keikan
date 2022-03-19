@@ -42,7 +42,7 @@ get_header(); ?>
 					</dl>
 					<dl>
 						<dt style="background-image:url(<?php print get_template_directory_uri(); ?>/img/works/example/11-4_220303.jpg)"><img src="<?php print get_template_directory_uri(); ?>/img/works/example/11-4_area.png"></dt>
-						<dd>▲<br>2022年1月27日掲載 西日本新聞<br>木製バリアフリー歩道、ドライブスルー駐車場に関する記事</dd>
+						<dd>▲<br>2022年1月27日掲載 西日本新聞<br>木製バリアフリー歩道を取り上げてくださった読売新聞の記事</dd>
 					</dl>
 				</div>
 			</div>
