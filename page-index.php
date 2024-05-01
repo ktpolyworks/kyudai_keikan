@@ -5,7 +5,7 @@ Template Name: INDEX ページ
 get_header(); ?>
 	<main>
 		<section id="index__top" class="index__top">
-			<video class="index__video" poster="<?php print get_template_directory_uri(); ?>/img/poster.png" preload="none" autoplay="on" loop="true" width="100%" muted="muted" webkit-playsinline playsinline><source src="<?php print get_template_directory_uri(); ?>/img/top.mp4" type="video/mp4"></video>
+			<video class="index__video" poster="<?php print get_template_directory_uri(); ?>/img/poster.png" preload="none" autoplay="on" loop="true" width="100%" muted="muted" webkit-playsinline playsinline><source src="<?php print get_template_directory_uri(); ?>/img/top.mp4?1" type="video/mp4"></video>
 			<div class="cover"></div>
 		</section>
 		<section id="index__works">

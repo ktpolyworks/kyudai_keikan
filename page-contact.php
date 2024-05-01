@@ -77,18 +77,18 @@ get_header(); ?>
 				<table class="section__info">
 					<tr>
 						<td class="td1">
-							九州大学<br>
-							<h2>景観研究室</h2>
-							<h3>HIGUCHI AKIHIKO LABORATORY</h3>
+							<h2>一般社団法人LSD</h2>
+							サステナブルデザイン研究室<br>
+							<h3>Laboratory for <br>Sustainable Design</h3>
 						</td>
 						<td class="td2">
-							〒819-0395<br>福岡市西区元岡744番地<br>九州大学伊都キャンパス ウエスト 3号館 815号室<br><br>
-							TEL：092-802-3436 FAX：092-802-3435<br>
+							〒819-0388<br>福岡市西区九大新町<br>いと Lab+ 研究開発棟 1F<br><br>
+							TEL：090-3070-5376<br>
 							mail ： higuchi3333@gmail.com
 						</td>
 					</tr>
 				</table>
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.3694711363514!2d130.2148816652029!3d33.595716830732684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3541e95d2c608c43%3A0x124ae5657920ae03!2z44CSODE5LTAzODUg56aP5bKh55yM56aP5bKh5biC6KW_5Yy65YWD5bKhIOWbveeri-Wkp-WtpuazleS6uuS5neW3nuWkp-WtpuS8iumDveOCreODo-ODs-ODkeOCueOCpuOCqOOCueODiO-8k-WPt-mkqA!5e0!3m2!1sja!2sjp!4v1519976536958" frameborder="0" class="section__map" allowfullscreen></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14396.203574069203!2d130.2204762533521!3d33.59748650734964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3541ebc6b7201369%3A0xcf88213cc89035d5!2z44GE44GoTGFi77yLIOeglOeptumWi-eZuuajnw!5e0!3m2!1sja!2sjp!4v1714444104105!5m2!1sja!2sjp" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="section__map"></iframe>
 			</div>
 		</section>
 		<div class="gotoTop contents">

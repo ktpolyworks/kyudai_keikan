@@ -14,7 +14,7 @@ get_header(); ?>
 				<div class="eyeCatch__section eyeCatch__section--2">
 					<div class="eyeCatch__title mincho">「地域の風景力を高めるお手伝い」<br>－ Power of Landscape －</div>
 					<table>
-					<th width="40%"><div class="eyeCatch__profile">九州大学大学院 工学研究院 准教授<br><strong>樋口 明彦</strong></div></th>
+					<th width="40%"><div class="eyeCatch__profile">一般社団法人LSD代表<br><strong>樋口 明彦</strong></div></th>
 					<th><a href="/contact"><div class="eyeCatch__contact" >
 						<img src="<?php print get_template_directory_uri(); ?>/img/index/contact_top_1_2.png"  width="100%" ></div></a></th>
 					</table>	
@@ -78,7 +78,7 @@ get_header(); ?>
 						</table>
 						<table>
 							<tr>
-								<td class="td1" rowspan="6"><span style="letter-spacing: 3em">職</span>歴</td>
+								<td class="td1" rowspan="8"><span style="letter-spacing: 3em">職</span>歴</td>
 								<td class="td2" nowrap>昭和58年 4月</td>
 								<td class="td3">五洋建設株式会社土木設計部</td>
 							</tr>
@@ -101,6 +101,14 @@ get_header(); ?>
 							<tr>
 								<td class="td2" nowrap>平成11年 4月</td>
 								<td class="td3">九州大学大学院工学研究院准教授</td>
+							</tr>
+							<tr>
+								<td class="td2" nowrap>令和 6年 3月</td>
+								<td class="td3">九州大学大学院工学研究院准教授退官</td>
+							</tr>
+							<tr>
+								<td class="td2" nowrap>令和 6年 5月</td>
+								<td class="td3">一般社団法人LSD設立</td>
 							</tr>
 						</table>
 						<table>

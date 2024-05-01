@@ -168,18 +168,21 @@ header .contents {
 header .logo {
     float: left;
     margin: 0;
-    width: 200px;
+    width: 300px;
     font-weight: normal;
 }
 header .logo h1 {
     font-weight: normal;
     line-height: 1.1;
     font-size: 34px;
-    margin-top: -10px;
-    padding-bottom: 15px;
+    /* margin-top: -10px; */
+	margin: 0;
+    /* padding-bottom: 15px; */
 }
 header .logo h1 span {
+	display: block;
     font-size: 14px;
+	padding: 5px 0 15px 0;
 }
 header nav {
     float: right;
@@ -339,7 +342,8 @@ footer .footer__section--title {
     letter-spacing: 0.1em;
 }
 footer .footer__section--title h1 {
-    font-size: 30px;
+	/* font-size: 30px; */
+	font-size: 26px;
     line-height: 1;
     font-weight: normal;
     letter-spacing: 0;

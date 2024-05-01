@@ -51,8 +51,7 @@ define("LAUNCH_VERSION",date("YmdHis"));
 	<header class="clearfix">
 		<div class="contents clearfix">
 			<a href="/./"><div class="logo">
-				<h1><span>九州大学</span><br>
-				景観研究室</h1>
+				<h1>一般社団法人LSD<span>サステナブルデザイン研究室</span></h1>
 			</div></a>
 			<nav>
 				<ul id="panel" class="clearfix">

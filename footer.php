@@ -7,15 +7,15 @@
 	<footer>
 		<div class="contents clearfix">
 			<div class="footer__section footer__section--title footer__section--logo">
-				九州大学<h1>景観研究室</h1><br>HIGUCHI<br>AKIHIKO<br>LABORATORY
+				<h1>一般社団法人LSD</h1>サステナブルデザイン研究室<br>Laboratory for<br>Sustainable Design
 			</div>
 			<div class="footer__section footer__section--contact">
 				<div class="footer__section__title">CONTACT</div>
 				<address>
-					<p>〒819-0395</p>
-					<p>福岡市西区元岡744番地</p>
-					<p>九州大学伊都キャンパスウエスト 3号館 815号室</p><br>
-					<p>TEL:092-802-3436　FAX:092-802-3435</p>
+					<p>〒819-0388</p>
+					<p>福岡市西区九大新町</p>
+					<p>いと Lab+ 研究開発棟 1F</p><br>
+					<p>TEL:090-3070-5376</p>
 					<p>mail : higuchi3333@gmail.com</p>
 				</address>
 			</div>
@@ -50,7 +50,7 @@
 			</div>
 		</div>
 		<div class="footer__copy">
-			Copyright &copy; Higuchi Akihiko Laboratory All Rights Reserved.
+			Copyright &copy; Laboratory for Sustainable Design All Rights Reserved.
 		</div>
 	</footer>
 </body>

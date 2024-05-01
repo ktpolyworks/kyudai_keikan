@@ -38,9 +38,9 @@ main{}
 
 	.section__info{width: 100%;margin: 70px 0;border: none;background: none;}
 		.section__info td{vertical-align: bottom;}
-			.section__info td.td1{border-right: 1px solid #555;width: 45%;padding-right: 60px;font-size: 30px;}
-				.section__info td.td1 h2{font-size: 56px;font-weight: 400;letter-spacing: 0.1em;}
-				.section__info td.td1 h3{font-size: 32px;font-weight: 500;letter-spacing: 0em;}
+			.section__info td.td1{border-right: 1px solid #555;width: 45%;padding-right: 60px;/*font-size: 30px;*/font-size: 22px;}
+				.section__info td.td1 h2{/*font-size: 56px;*/font-size: 36px;font-weight: 400;letter-spacing: 0.1em;}
+				.section__info td.td1 h3{/*font-size: 32px;*/font-size: 20px;font-weight: 500;letter-spacing: 0em;}
 			.section__info td.td2{width: 55%;padding-left: 80px;font-size: 18px;}
 
 	.section__map{width: 100%;height: 500px;}
