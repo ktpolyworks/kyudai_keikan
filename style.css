@@ -170,6 +170,7 @@ header .logo {
     margin: 0;
     width: 300px;
     font-weight: normal;
+	margin-bottom: 15px;
 }
 header .logo h1 {
     font-weight: normal;

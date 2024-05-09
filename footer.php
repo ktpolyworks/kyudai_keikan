@@ -7,7 +7,7 @@
 	<footer>
 		<div class="contents clearfix">
 			<div class="footer__section footer__section--title footer__section--logo">
-				<h1>一般社団法人LSD</h1>サステナブルデザイン研究室<br>Laboratory for<br>Sustainable Design
+				<h1><img src="<?php print get_template_directory_uri(); ?>/img/logo_l.svg" alt="一般社団法人LSD サステナブルデザイン研究室 Laboratory for Sustainable Design" class="footer__logo"></h1>
 			</div>
 			<div class="footer__section footer__section--contact">
 				<div class="footer__section__title">CONTACT</div>
