@@ -7,7 +7,7 @@
 	<footer>
 		<div class="contents clearfix">
 			<div class="footer__section footer__section--title footer__section--logo">
-				<h1><img src="<?php print get_template_directory_uri(); ?>/img/logo_g.svg" alt="一般社団法人LSD サステナブルデザイン研究室 Laboratory for Sustainable Design" class="footer__logo"></h1>
+				<h1><img src="<?php print get_template_directory_uri(); ?>/img/logo_g.svg?1" alt="一般社団法人LSD サスティナブルデザイン研究室 Laboratory for Sustainable Design" class="footer__logo"></h1>
 			</div>
 			<div class="footer__section footer__section--contact">
 				<div class="footer__section__title">CONTACT</div>
@@ -16,7 +16,7 @@
 					<p>福岡市西区九大新町</p>
 					<p>いと Lab+ 研究開発棟 1F</p><br>
 					<p>TEL:090-3070-5376</p>
-					<p>mail : higuchi3333@gmail.com</p>
+					<p>mail : info@lsd.or.jp</p>
 				</address>
 			</div>
 			<div class="footer__section footer__section--sitemap">

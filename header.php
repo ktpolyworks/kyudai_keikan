@@ -51,7 +51,7 @@ define("LAUNCH_VERSION",date("YmdHis"));
 	<header class="clearfix">
 		<div class="contents clearfix">
 			<a href="/./"><div class="logo">
-				<h1><img src="<?php print get_template_directory_uri(); ?>/img/logo_w.svg" alt="一般社団法人LSD サステナブルデザイン研究室" class="header__logo"></h1>
+				<h1><img src="<?php print get_template_directory_uri(); ?>/img/logo_w.svg?1" alt="一般社団法人LSD サスティナブルデザイン研究室" class="header__logo"></h1>
 			</div></a>
 			<nav>
 				<ul id="panel" class="clearfix">

@@ -14,7 +14,7 @@ get_header(); ?>
 				<div class="eyeCatch__section eyeCatch__section--2">
 					<div class="eyeCatch__title mincho">「地域の風景力を高めるお手伝い」<br>－ Power of Landscape －</div>
 					<table>
-					<th width="40%"><div class="eyeCatch__profile">一般社団法人LSD代表<br><strong>樋口 明彦</strong></div></th>
+					<th width="40%"><div class="eyeCatch__profile">一般社団法人LSD代表理事<br><strong>樋口 明彦</strong></div></th>
 					<th><a href="/contact"><div class="eyeCatch__contact" >
 						<img src="<?php print get_template_directory_uri(); ?>/img/index/contact_top_1_2.png"  width="100%" ></div></a></th>
 					</table>	
@@ -28,20 +28,114 @@ get_header(); ?>
 				</div>
 				<div class="section__title__bar section__title__bar--2">
 					<div class="__box"></div>
-					<div class="__title mincho">メッセージ</div>
+					<div class="__title mincho">ごあいさつ</div>
 				</div>
 				<div class="section__split">
 					<div class="section__box">
-						<div class="box__header mincho">観光振興につながる風景力を高める</div>
+						<div class="box__header mincho">サスティナブルデザインから始めましょう</div>
 						<div class="box__body">
-							これからの九州経済、地域経済を支えるビジネスの一つは、新しいタイプの観光であると考えています。名物・名所を駆け足で回るこれまでの観光ではなく、自然の恩恵を感じ、豊かな歴史と文化を内蔵した美しい暮らしをじっくり体験する観光です。ライバルはイタリアのトスカーナ。スローライフや民泊で世界的に有名です。九州とトスカーナの広さはほぼ同じ。どちらも世界に誇れる美しい風景をたくさん持っています。もう一歩地域の風景力を高めることで、九州はアジアのトスカーナになれると僕は信じています。九大景観研では、地域の皆さんと一緒に風景力を高めるお手伝いを今後も続けていきます。
+							これまでの四半世紀、僕は大学に籍を置く研究者の立場で、川や公園、橋や街路などを主な対象として、成熟社会に相応しい質の高いデザイン、地域の環境や歴史文化と調和したデザインとはどうあるべきかを考え、模索し、自分なりに実践してきました。<br>
+							　それまで人が寄り付けなかった人工的な川を誰でも快適に利用できる親水空間へと変貌させたデザイン（写真1）、線路敷跡を鉄路の思い出が感じられバリアフリーとエコロジーにも配慮した公園空間に再生したデザイン（写真2）、地域を元気にするために歴史的な集落の暮らの姿と美しい風景をトレイルルートで体験できるようにしたデザイン（写真3）など、地域の皆さん達と一緒になって様々なデザインアイデアを試し、実現してきました。<br>
+							　そうした取り組みの中で強く感じるようになったことがあります。この国はかつてとってもサスティナブルな社会であったこと、地方にいくと今でもその作法や風景が残されていること、そして、それらは今求められている新しい社会のあり方を考えていく上でとても大きな手がかりになる、ということです。<br>
+							　例えば最近よくお邪魔する南阿蘇村には、無数の古い石垣群やアーチ橋があり、今も使われています。カルデラ内の傾斜地には大切な水を農地まで届け続けている用水路が縦横に巡っています。これらのほとんどは熊本地震でも壊れませんでした。まだコンクリートが無かった時代、木材や石材、そして湧水など地域で手に入る自然の恵みを巧みに使い、自然と共生しながら暮らしていくため培われた知恵や作法です。理にかない、サスティナブルで、地域の風景に美しく溶け込んでいます。
 						</div>
 					</div>
 					<div class="section__box">
-						<div class="box__header mincho">グリーンインフラで地域防災と風景力を両立させる</div>
 						<div class="box__body">
-							地球温暖化の影響でしょうか、九州では豪雨、地震などの自然災害が頻発しています。自然災害からの復興プロセスでは、コンクリートの鎧で防備を固めることが中心となり、ともすると地域の歴史的・文化的個性や豊かな自然への配慮が後回しになりがちです。それでは復興後の地域を支える大切な風景力が低下してしまいます。災い転じて福となすは簡単ではありませんが、グリーンインフラの考え方を導入することで地域の防災力を高めるとともにできる限り風景を保全・再生し、風景力の低下を少しでも小さくする、できれば上向かせるお手伝いをしたいと考えています。
+							この法人を立ち上げた目的は、第一に、サスティナブルな暮らしを支えてきたこうした素晴らしい知恵や作法を地域資源循環・グリーンインフラ・創造的災害復興などの新しい概念と融合させることにより、二酸化炭素排出量の削減や地域防災力の向上に役立つ新しい公共空間や社会基盤のデザインを地域の皆さん達と一緒になって研究・開発・実装していくことです。<br>
+							　第二の目的は、そうしたアプローチを通じて地域の文化、美しい風景、環境を修復・再生していくこと、さらにエコツーリズムなどの観光振興や雇用機会の創出を誘発し、地域力の向上に貢献していくことです。<br>
+							　最近よく耳にするSDGsとは、2015年に国連総会で採択された持続可能な開発のための国際目標のことです。ですが、「持続可能」と「開発」とは本来対立する概念。それを両立するなんて本当に可能なのでしょうか？<br>
+							　二酸化炭素など温室効果ガスの削減を目指し2016年に発効したパリ協定の目標がすでに達成困難になっていることを見ても、簡単なことではないのは明らかです。<br>
+							　それでも、これから生まれてくる子供たちのこと、この星に暮らすたくさんの生き物のことを思うと、何もしないでいるわけにはいきません。思いのある人一人一人ができることから少しずつやっていくしかない、と思います。<br>
+							　SDGsの達成は一筋縄ではいきません。でも、サスティナブルなデザインで地域を強く元気にしていくことは、すぐにでも始められます。<br>
+							　ふるさとを元気にするため、子供達の未来を少しでも良いものにするために日々頑張っていらっしゃるみなさん、地域再生や防災など多くの課題を抱え奮闘されている首長や行政職員のみなさん、一度お話しませんか？ご連絡をお待ちしております。<br>
+							<br>
+							<span style="display: block;text-align: right;">
+								一般社団法人LSD代表理事　樋口 明彦<br>
+								携帯：090-3070-5376<br>
+								メール：<a href="mailto:info@lsd.or.jp" style="color:#333">info@lsd.or.jp</a>
+							</span>
 						</div>
+					</div>
+				</div>
+				<style>
+				.about__box {
+					display: flex;
+					justify-content: space-between;
+					flex-wrap: wrap;
+				}
+				.about__box__item,
+				.about__box__txt {
+					width: 49%;
+					margin-bottom: 25px;
+				}
+				.about__box__txt {
+					border: 1px solid #ccc;
+					padding: 15px 20px;
+					font-size: 12px;
+					display: flex;
+					align-items: center;
+				}
+				.about__box__label {
+					margin-bottom: 5px;
+				}
+				.about__box__img {
+					display: flex;
+					justify-content: space-between;
+					flex-wrap: wrap;
+					align-items: center;
+				}
+				.about__box__img__item {
+					width: 48%;
+				}
+				.about__box__img__y {
+					width: 2%;
+				}
+				.about__box__img__item img,
+				.about__box__img__y img {
+					width: 100%;
+					height: auto;
+					vertical-align: bottom;
+				}
+				@media only screen and (max-width: 769px) {
+					.about__box__item,
+					.about__box__txt {
+						width: 100%;
+						margin-bottom: 5%;
+					}
+					.about__box__txt {
+						margin-bottom: 0%;
+					}
+				}
+				</style>
+				<div class="about__box">
+					<div class="about__box__item">
+						<div class="about__box__label">写真1</div>
+						<div class="about__box__img">
+							<div class="about__box__img__item"><img src="<?= esc_url(get_template_directory_uri()); ?>/img/about_img_1.jpg"></div>
+							<div class="about__box__img__y"><img src="<?= esc_url(get_template_directory_uri()); ?>/img/about_y.svg" alt="→"></div>
+							<div class="about__box__img__item"><img src="<?= esc_url(get_template_directory_uri()); ?>/img/about_img_2.jpg"></div>
+						</div>
+					</div>
+					<div class="about__box__item">
+						<div class="about__box__label">写真2</div>
+						<div class="about__box__img">
+							<div class="about__box__img__item"><img src="<?= esc_url(get_template_directory_uri()); ?>/img/about_img_3.jpg"></div>
+							<div class="about__box__img__y"><img src="<?= esc_url(get_template_directory_uri()); ?>/img/about_y.svg" alt="→"></div>
+							<div class="about__box__img__item"><img src="<?= esc_url(get_template_directory_uri()); ?>/img/about_img_4.jpg"></div>
+						</div>
+					</div>
+					<div class="about__box__item">
+						<div class="about__box__label">写真3</div>
+						<div class="about__box__img">
+							<div class="about__box__img__item"><img src="<?= esc_url(get_template_directory_uri()); ?>/img/about_img_5.jpg"></div>
+							<div class="about__box__img__y"><img src="<?= esc_url(get_template_directory_uri()); ?>/img/about_y.svg" alt="→"></div>
+							<div class="about__box__img__item"><img src="<?= esc_url(get_template_directory_uri()); ?>/img/about_img_6.jpg"></div>
+						</div>
+					</div>
+					<div class="about__box__txt">
+						LSDは「Laboratory for Sustainable Design（持続可能なデザイン研究室）」の略ですが、「Long Slow Distance（長い道のりを急がずゆっくり走っていこう）」という思いも込めています。まちづくりは時間がかかるものですから、ゆっくりじっくり、楽しくやっていこう、というわけです。<br>
+						「Lysergic Acid Diethylamide（リゼルグ酸ジエチルアミド、幻覚剤の一種）」を連想した方は僕と同じか少し上の世代の方でしょう。先が見通せず閉塞感で息の詰まる今日、まともなことをやっていては大きな変革は起こせません。時にはサイケデリック（死語ですが）になってみることも必要なのかも…
 					</div>
 				</div>
 			</div>
